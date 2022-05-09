@@ -1,8 +1,11 @@
 span{
   font-size: 12px;
 }
+input {
+  color: aliceblue;
+}
 div {
   background-color: red;
 
-  font-size: 64px;
+  font-size: 120px;
 }
